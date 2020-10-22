@@ -11,6 +11,8 @@ redshiftCluster:
   dbName: app
   nodeType: dc2.large
   numberOfNodes: 2
+  MasterUsername: admin
+  MasterUserPassword: admin123
   securityGroup:
     whitelistedIps:
       - 5.6.7.8/32

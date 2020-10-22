@@ -16,8 +16,8 @@ Resources:
       ClusterType: multi-node
       DBName: app
       Encrypted: true
-      MasterUsername: 
-      MasterUserPassword: 
+      MasterUsername: admin
+      MasterUserPassword: admin123
       NodeType: dc2.large
       NumberOfNodes: 2
       PubliclyAccessible: true
