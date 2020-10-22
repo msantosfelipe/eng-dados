@@ -16,8 +16,8 @@ Resources:
       ClusterType: multi-node
       DBName: {{ redshiftCluster.dbName }}
       Encrypted: true
-      MasterUsername: {{ redshiftClusterMasterUsername }}
-      MasterUserPassword: {{ redshiftClusterMasterUserPassword }}
+      MasterUsername: {{ redshiftCluster.MasterUsername }}
+      MasterUserPassword: {{ redshiftCluster.MasterUserPassword }}
       NodeType: {{ redshiftCluster.nodeType }}
       NumberOfNodes: {{ redshiftCluster.numberOfNodes }}
       PubliclyAccessible: true
