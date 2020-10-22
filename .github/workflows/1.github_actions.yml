@@ -29,4 +29,4 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
       run: |
-        python turma_2/2_integracao_continua_e_testes/1.github_actions/deploy.py
+        python aula_2/1.github_actions/deploy.py
