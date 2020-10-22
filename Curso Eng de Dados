@@ -1,0 +1,48 @@
+Instrutor:
+André Sionek
+Github:
+https://github.com/andresionek91/bootcamp-engenharia-de-dados
+
+AWS:
+felipe_356+1@hotmail.com
+senha1
+
+Aulas:
+https://www.youtube.com/playlist?list=PLJP1cHdHAURzMjAaI4BQeF5Hz5GnIodoT
+
+---------------------------------------------------------------------------
+AULA 1:
+Slides - https://docs.google.com/presentation/d/1DQYd_vTAPQ7-WsPAiWRDJUEppgyhjNNmwkYxWET3kWo/edit#slide=id.p
+
+Calculadora AWS
+https://calculator.s3.amazonaws.com/index.html
+
+- Kinesis Firehose faz buffer de eventos e joga no S3
+
+postgres - insert update e delete e select ruim
+redshift - select bom e insert update e delete ruim
+
+Redshift:
+meu-cluster-redshift.cj61abyxrx9x.us-east-1.redshift.amazonaws.com 
+amin 
+admin 
+Admin1234 
+production 
+5439 
+
+Duvdas:
+Tem q ser criada uma VPC pra todo serviço? Quando ele criou um bucket não especificou a VPC
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+

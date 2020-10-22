@@ -1,0 +1,10 @@
+Resources:
+
+  MeuPrimeiroBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: meu-primeiro-bucket-felipesa
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
